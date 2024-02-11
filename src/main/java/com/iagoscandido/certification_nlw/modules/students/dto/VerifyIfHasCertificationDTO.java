@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class VerifyIfStudentHasCertificationDTO {
+public class VerifyIfHasCertificationDTO {
     private String email;
     private String technology;
 }
