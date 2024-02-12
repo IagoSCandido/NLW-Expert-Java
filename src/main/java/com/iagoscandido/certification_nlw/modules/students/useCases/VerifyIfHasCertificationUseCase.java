@@ -20,5 +20,6 @@ public class VerifyIfHasCertificationUseCase {
             return true;
         }
         return false;
+
     }
 }
